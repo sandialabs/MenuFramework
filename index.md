@@ -1,4 +1,4 @@
-# SNL XR Training Team - `MenuFramework`
+# `MenuFramework`
 
 ## Introduction
 The `MenuFramework` is a reusable Extended Reality (XR) multi-level menu system for the Unity Development Platform. The menu structure is architected for reusability to suit whatever need the developer may have for it. This project is a multi-level menu system that provides access to Extended Reality (XR) applications/projects.  The menu system is managed by a multi-level state machine.  This is designed to be the centralized documentation for the SNL XR Training Team collaboration effort encompassing the `MenuFramework` project.
@@ -36,3 +36,10 @@ Miner, Nadine E., Klein, Brandon Thorin, Bramley, Shane Michael, and Rubin, Alex
 
 [`XR@Z`Presentation](https://www.osti.gov/biblio/1643569-xr): <br>
 Klein, Brandon T. *XR@Z*. Sandia National Laboratories Extended Reality Conference 2019. SAND2019-14388 C 
+
+
+## Acknowledgment
+
+Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
+
+![image](https://user-images.githubusercontent.com/64920723/169654799-c4953858-6aee-47ca-b74c-332af2ed6323.png)
