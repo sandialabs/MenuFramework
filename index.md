@@ -1,5 +1,7 @@
 # `MenuFramework`
 
+<img src="https://user-images.githubusercontent.com/64920723/169660455-bc0dd77b-d8ff-4149-8a26-b4d4869a07ea.png" width="625" height="316" />
+
 ## Introduction
 The `MenuFramework` is a reusable Extended Reality (XR) multi-level menu system for the Unity Development Platform. The menu structure is architected for reusability to suit whatever need the developer may have for it. This project is a multi-level menu system that provides access to Extended Reality (XR) applications/projects.  The menu system is managed by a multi-level state machine.  This is designed to be the centralized documentation for the SNL XR Training Team collaboration effort encompassing the `MenuFramework` project.
 
