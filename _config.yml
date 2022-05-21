@@ -1,1 +1,9 @@
 remote_theme: just-the-docs/just-the-docs
+
+title: MenuFramework
+tagline: MenuFramework 
+description: MenuFramework | a reusable XR multi-level menu system for the Unity Development Platform.
+url: https://sandialabs.github.io
+author: 
+  name: Nadine E. Miner, Brandon T. Klein, Shane Bramley
+logo: https://user-images.githubusercontent.com/64920723/169660455-bc0dd77b-d8ff-4149-8a26-b4d4869a07ea.png
